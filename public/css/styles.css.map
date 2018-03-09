@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"../../dev/sass/styles.scss",
+		"../../dev/sass/_variables.scss",
+		"../../dev/sass/_layout.scss",
+		"../../dev/sass/_general.scss"
+	],
+	"names": [],
+	"mappings": "AGAA,AAAA,UAAU,CAAC;EACT,KAAK,EFIQ,MAAM,GEHpB;;AAED,AAAA,OAAO,CAAC;EACN,SAAS,EAAE,IAAI,GAChB"
+}
